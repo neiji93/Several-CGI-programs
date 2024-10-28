@@ -15,3 +15,16 @@ void negateControlByShadowMapNavierStokes(....)
 {
 
 }
+
+
+/////We can use navier stokes equations several times for only this file.
+
+//The imaging techniques should be avoided in a near futur. To cancel them,
+//we have to force albedo. This function enhance realism of the lines. albedo can
+//be a variable of the previous function model. So, let's call the previous function
+//several times. With a high logarithm, let's take 9.
+void negateGammaByNavierStokesLogarithmicApproach(....)
+{
+ for(int i=0; i<8; i++)
+    egateControlByShadowMapNavierStokes(..;..)
+}
