@@ -1,3 +1,8 @@
+//notrs : some parts of this file could be used
+//for my champo crypto currency repository. yes, navier stokes
+//equations tur'ed to control theory should be fine 
+//more to come...
+
 
 //according to physics, there must be several explanations about each scene cases.
 //Then, using directly models will be easier because we can extract latent variables.
