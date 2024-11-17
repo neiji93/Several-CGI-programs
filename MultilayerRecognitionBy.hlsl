@@ -22,7 +22,9 @@ void storyboardCancelRoughness()
    //compute some differentials methods !
  }
 
-
+  //do something with automorphism or diffeomorphism or hoeomoprhism
+  //because this is realtime rendering. Notice that the hehaviour of the scheduller
+//here matters because this is one of the most simple function of this repository.
 }
 
 void storyboardCancelAlbedo()
